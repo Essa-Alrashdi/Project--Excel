@@ -58,6 +58,7 @@ Six Pivot Tables were built to answer core business questions:
    * Mapped monthly revenue distribution to evaluate seasonal sales trends.
 6. **Quantity Sold by Employee per Product**:
    * Cross-tabulation of itemized performance per sales agent across product categories.
+   * 📂 Project File: The complete dataset and working Excel file can be downloaded directly via Data analysis.xlsx.
 
 ---
 
